@@ -94,7 +94,11 @@ on a direct-connect P2P architecture.
   For manual installation, on Debian-based systems (ex: Ubuntu), run:
 
        sudo apt-get install python3-pycurl python3-geoip python3-whois python3-requests python3-scapy libgeoip1 libgeoip-dev && pip3 install pycryptodome --break-system-packages
-
+       
+## Execution
+In ufonet directory execute the following code in a terminal
+- python3 ufonet -h (for help)
+- python3 ufonet --gui (Web Interface)
   
 ####  Source libs:
 
